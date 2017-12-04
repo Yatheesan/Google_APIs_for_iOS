@@ -1,1 +1,0 @@
-../../../GoogleAPIClientForREST/Source/GeneratedServices/Gmail/GTLRGmailQuery.h
